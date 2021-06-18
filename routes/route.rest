@@ -1,0 +1,11 @@
+GET http://localhost:5454/api/
+
+###
+
+POST http:localhost:5454/api/
+Content-Type: application/json
+
+{
+    "name":"julio",
+    "email":"julio@mail.com"
+}
